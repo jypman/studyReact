@@ -1,7 +1,7 @@
 import React from "react";
 import {storiesOf} from "@storybook/react";
-import InlineList from "../doit-ui/InlineList";
-import {css} from "../doit-ui/withStyles";
+import InlineList from "../toyUI/InlineList";
+import {css} from "../toyUI/withStyles";
 
 // 함수형 컴포넌트로 전달되는 인자의 자료형이 문자열이 아닌 경우 {}로 감싼다.
 function RedBox({children}) {

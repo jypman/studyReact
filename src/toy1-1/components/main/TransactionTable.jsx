@@ -3,14 +3,14 @@
 
 import React, {PureComponent} from 'react';
 import PropTypes from 'prop-types';
-import Table from "../../../doit-ui/Table";
-import TableRow from "../../../doit-ui/TableRow";
-import TableCell from "../../../doit-ui/TableCell";
-import TableHead from "../../../doit-ui/TableHead";
-import TableBody from "../../../doit-ui/TableBody";
+import Table from "../../../toyUI/Table";
+import TableRow from "../../../toyUI/TableRow";
+import TableCell from "../../../toyUI/TableCell";
+import TableHead from "../../../toyUI/TableHead";
+import TableBody from "../../../toyUI/TableBody";
 
-import Text from "../../../doit-ui/Text";
-import Spacing from "../../../doit-ui/Spacing";
+import Text from "../../../toyUI/Text";
+import Spacing from "../../../toyUI/Spacing";
 import withLoading from "../../../05/withLoading"
 
 const LoadingMessage = (

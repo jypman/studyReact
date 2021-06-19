@@ -13,7 +13,7 @@ const createData = (index) => {
                 totalPrice: getRandomNumber(10000000, 800000000),
                 currentPrice: getRandomNumber(20000, 25000),
                 amount: getRandomNumber(1, 30),
-                datetime: '2021/05/20 08:23:22',
+                datetime: '2021/05/20 toy1-1:23:22',
             };
         }
         case 2: {
@@ -24,7 +24,7 @@ const createData = (index) => {
                 totalPrice: getRandomNumber(100000000, 500000000),
                 currentPrice: getRandomNumber(400000, 600000),
                 amount: getRandomNumber(100, 1000),
-                datetime: '2021/05/21 08:23:22',
+                datetime: '2021/05/21 toy1-1:23:22',
             };
         }
         default: {
@@ -35,7 +35,7 @@ const createData = (index) => {
                 totalPrice: getRandomNumber(100000000000, 200000000000),
                 currentPrice: getRandomNumber(10000000, 40000000),
                 amount: getRandomNumber(0, 10),
-                datetime: '2021/05/20 08:23:22',
+                datetime: '2021/05/20 toy1-1:23:22',
             };
         }
     }

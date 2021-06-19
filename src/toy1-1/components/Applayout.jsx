@@ -1,6 +1,6 @@
 import React, {PureComponent} from 'react';
 import PropTypes from 'prop-types';
-import {withStyles, css, withStylesPropTypes} from "../../doit-ui/withStyles";
+import {withStyles, css, withStylesPropTypes} from "../../toyUI/withStyles";
 import AppNav, {HEIGHT} from "./AppNav";
 
 class Applayout extends PureComponent {

@@ -1,9 +1,9 @@
 import React from 'react';
 import { storiesOf } from '@storybook/react';
 
-import Text from '../doit-ui/Text';
-import Card from '../doit-ui/Card';
-import Spacing from '../doit-ui/Spacing';
+import Text from '../toyUI/Text';
+import Card from '../toyUI/Card';
+import Spacing from '../toyUI/Spacing';
 
 storiesOf('Doit-UI/Card', module)
     .addWithJSX('Card 예제', () => (

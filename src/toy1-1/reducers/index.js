@@ -1,5 +1,5 @@
 import notification from "./notificationReducer";
-import createReducers from "../../11/api-redux-pack/createReducers";
+import createReducers from "../../toy1-2/api-redux-pack/createReducers";
 import searchFilter from "./searchFilterReducer";
 import router from "./routerReducer";
 

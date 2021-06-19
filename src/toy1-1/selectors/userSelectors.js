@@ -1,4 +1,4 @@
-import createSelectors from "../../11/api-redux-pack/createSelectors";
+import createSelectors from "../../toy1-2/api-redux-pack/createSelectors";
 
 export const {
     createLoadingStateSelector : userCreateLoadingStateSelector

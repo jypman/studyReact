@@ -1,5 +1,5 @@
 import {FETCH_LIST, CREATE, UPDATE, FETCH, RESET} from "./actionTypes";
-import Api from "../../08/Api";
+import Api from "../../toy1-1/Api";
 
 export default (resourceName, key = 'id') => ({
     collection : (params = {}, meta = {}) => ({

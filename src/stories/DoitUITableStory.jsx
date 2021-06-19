@@ -1,11 +1,11 @@
 import React from 'react';
 import { storiesOf } from '@storybook/react';
 
-import Table from '../doit-ui/Table';
-import TableHead from '../doit-ui/TableHead';
-import TableBody from '../doit-ui/TableBody';
-import TableRow from '../doit-ui/TableRow';
-import TableCell from '../doit-ui/TableCell';
+import Table from '../toyUI/Table';
+import TableHead from '../toyUI/TableHead';
+import TableBody from '../toyUI/TableBody';
+import TableRow from '../toyUI/TableRow';
+import TableCell from '../toyUI/TableCell';
 
 storiesOf('Doit-UI/Table', module)
     .addWithJSX('Table 예제', () => (

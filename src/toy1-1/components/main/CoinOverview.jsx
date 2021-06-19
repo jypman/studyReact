@@ -1,6 +1,6 @@
 import React, {PureComponent} from 'react';
-import Heading from "../../../doit-ui/Heading";
-import InlineList from "../../../doit-ui/InlineList";
+import Heading from "../../../toyUI/Heading";
+import InlineList from "../../../toyUI/InlineList";
 import CoinDashlet from "./CoinDashlet";
 
 class CoinOverview extends PureComponent {

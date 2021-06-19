@@ -1,7 +1,7 @@
 import React, { PureComponent } from 'react';
 import PropTypes from 'prop-types';
-import Button from '../../../doit-ui/Button';
-import InlineList from '../../../doit-ui/InlineList';
+import Button from '../../../toyUI/Button';
+import InlineList from '../../../toyUI/InlineList';
 
 class TransactionPagination extends PureComponent {
     constructor(props) {

@@ -1,8 +1,8 @@
 import React, {Component} from 'react';
 import {Link} from "react-router-dom";
 
-import Text from "../../doit-ui/Text";
-import Spacing from "../../doit-ui/Spacing";
+import Text from "../../toyUI/Text";
+import Spacing from "../../toyUI/Spacing";
 
 class NotFound extends Component {
     render() {

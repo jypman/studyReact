@@ -1,6 +1,6 @@
 import React, {PureComponent} from 'react';
-import Heading from "../../../doit-ui/Heading";
-import Card from "../../../doit-ui/Card";
+import Heading from "../../../toyUI/Heading";
+import Card from "../../../toyUI/Card";
 import TransactionSearchFilterContainer from "../../containers/main/TransactionSearchFilterContainer";
 import TransactionTable from "./TransactionTable";
 import TransactionPaginationContainer from "../../containers/main/TransactionPaginationContainer";

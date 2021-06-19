@@ -1,8 +1,8 @@
 import React, {PureComponent} from 'react';
-import {withStyles, css, withStylesPropTypes} from "../../doit-ui/withStyles";
-import Heading from "../../doit-ui/Heading";
-import Button from "../../doit-ui/Button";
-import {Consumer as Modal} from "../../doit-ui/Modal/context";
+import {withStyles, css, withStylesPropTypes} from "../../toyUI/withStyles";
+import Heading from "../../toyUI/Heading";
+import Button from "../../toyUI/Button";
+import {Consumer as Modal} from "../../toyUI/Modal/context";
 import {REGISTER_USER_MODAL} from "../constants/modals";
 
 export const HEIGHT = 64;

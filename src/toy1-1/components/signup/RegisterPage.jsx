@@ -1,12 +1,12 @@
 import React, {PureComponent} from 'react';
 import PropTypes from 'prop-types';
-import Text from "../../../doit-ui/Text";
-import Spacing from "../../../doit-ui/Spacing";
-import Input from "../../../doit-ui/Input";
-import Button from "../../../doit-ui/Button";
-import InlineList from "../../../doit-ui/InlineList";
-import Form from "../../../doit-ui/Form";
-import {Consumer as Modal} from "../../../doit-ui/Modal/context";
+import Text from "../../../toyUI/Text";
+import Spacing from "../../../toyUI/Spacing";
+import Input from "../../../toyUI/Input";
+import Button from "../../../toyUI/Button";
+import InlineList from "../../../toyUI/InlineList";
+import Form from "../../../toyUI/Form";
+import {Consumer as Modal} from "../../../toyUI/Modal/context";
 
 
 class RegisterPage extends PureComponent {

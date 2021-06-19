@@ -1,10 +1,10 @@
 import React, {PureComponent} from 'react';
-import InlineList from "../../../doit-ui/InlineList";
-import Button from "../../../doit-ui/Button";
-import Text from "../../../doit-ui/Text";
-import Input from "../../../doit-ui/Input";
-import Form from "../../../doit-ui/Form";
-import Select, {Option} from "../../../doit-ui/Select";
+import InlineList from "../../../toyUI/InlineList";
+import Button from "../../../toyUI/Button";
+import Text from "../../../toyUI/Text";
+import Input from "../../../toyUI/Input";
+import Form from "../../../toyUI/Form";
+import Select, {Option} from "../../../toyUI/Select";
 import {withRouter} from "react-router-dom";
 
 class TransactionSearchFilter extends PureComponent {

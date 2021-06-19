@@ -1,4 +1,4 @@
-import createActions from "../../11/api-redux-pack/createActions";
+import createActions from "../../toy1-2/api-redux-pack/createActions";
 
 const {create} = createActions('users');
 

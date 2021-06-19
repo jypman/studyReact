@@ -1,4 +1,4 @@
-import createActions from "../../11/api-redux-pack/createActions";
+import createActions from "../../toy1-2/api-redux-pack/createActions";
 
 export const FETCH_TRANSACTION_LIST = 'transaction/FETCH_TRANSACTION_LIST';
 export const CREATE_TRANSACTION = 'transaction/CREATE_TRANSACTION';

@@ -1,6 +1,6 @@
 import React, {PureComponent} from 'react';
 import PropTypes from 'prop-types';
-import Toast from "../../../doit-ui/Toast";
+import Toast from "../../../toyUI/Toast";
 
 class Notification extends PureComponent {
     render() {

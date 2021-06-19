@@ -1,12 +1,12 @@
 import React, {PureComponent} from 'react';
 import PropTypes from 'prop-types';
-import Heading from "../../../doit-ui/Heading";
-import Button from "../../../doit-ui/Button";
-import Card from "../../../doit-ui/Card";
-import InlineList from "../../../doit-ui/InlineList";
-import Text from "../../../doit-ui/Text";
+import Heading from "../../../toyUI/Heading";
+import Button from "../../../toyUI/Button";
+import Card from "../../../toyUI/Card";
+import InlineList from "../../../toyUI/InlineList";
+import Text from "../../../toyUI/Text";
 
-import {Consumer as Modal} from "../../../doit-ui/Modal/context";
+import {Consumer as Modal} from "../../../toyUI/Modal/context";
 import {TRADE_COIN_MODAL} from "../../constants/modals";
 
 class CoinDashlet extends PureComponent {
